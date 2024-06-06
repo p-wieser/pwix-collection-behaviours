@@ -1,3 +1,21 @@
+# pwix:collection-behaviors - README
+
+## What is it ?
+
+This package is a fork from zimme:collection-behaviors as its last released version v 1.1.3 from 2015.
+
+It has been forked to make it compatible with Meteor 2. and incoming Meteor 3.x.
+
+## Installation
+
+```sh
+    meteor add pwix:collection-behaviours
+```
+
+# Following is the original documentation from zimme...
+
+From which I have removed the obsolete parts.
+
 [![Gitter]](https://gitter.im/zimme/meteor-collection-behaviours)
 [![Code Climate]](https://codeclimate.com/github/zimme/meteor-collection-behaviours)
 [![License]](https://github.com/zimme/meteor-collection-timestampable/blob/master/LICENSE.md)
@@ -5,12 +23,6 @@
 # Behaviours for collections
 
 Define and attach behaviours to collections.
-
-## Installation
-
-```sh
-meteor add zimme:collection-behaviours
-```
 
 ## Available behaviours
 
