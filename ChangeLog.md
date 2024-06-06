@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Fix the Github URL
 
 ### 2.0.0
 
