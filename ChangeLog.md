@@ -4,9 +4,10 @@
 
 ### 2.0.2-rc
 
-    Release date: 
+    Release date:
 
-    - 
+    - Update README
+    - move the Github repository to trychlos organization
 
 ### 2.0.1
 
@@ -18,7 +19,7 @@
 
     Release date: 2024- 6- 6
 
-    - Meteor 3.0 ready
+    - Meteor 3.0 ready, bumping major candidate version number
 
 ### 1.1.3
 
