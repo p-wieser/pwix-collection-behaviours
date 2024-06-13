@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 2.0.2-rc
+### 2.0.2
 
-    Release date:
+    Release date: 2024- 6-13
 
     - Update README
     - move the Github repository to trychlos organization
@@ -29,4 +29,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Jun. 6th
+- Last updated on 2024, Jun. 13th
