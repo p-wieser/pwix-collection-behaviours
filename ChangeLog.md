@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 2.0.3-rc
+### 2.0.3
 
-    Release date:
+    Release date: 2024- 6-30
 
     - Honor options when attaching a behaviour
 
@@ -35,4 +35,4 @@
 
 ---
 P. Wieser
-- Last updated on 2024, Jun. 13th
+- Last updated on 2024, Jun. 30th
