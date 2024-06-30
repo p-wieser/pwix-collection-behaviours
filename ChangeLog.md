@@ -4,9 +4,9 @@
 
 ### 2.0.3-rc
 
-    Release date: 
+    Release date:
 
-    - 
+    - Honor options when attaching a behaviour
 
 ### 2.0.2
 

@@ -21,7 +21,9 @@ share.attach = attach = (behaviours, options...) ->
 
     behaviourObject.collections ?= []
 
-    if @_name in behaviourObject.collections
+    options = options?[0] || {}
+
+    if @_name in behaviourObject.collections and not options?.replace
       console.warn messages.attachAborted name, @_name
       return
 
